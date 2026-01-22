@@ -12,5 +12,9 @@ Creator of [@LaserSell](https://github.com/lasersell) & [@twintproject](https://
 
 Rust, JS, Python, Bash, Go
 
+### Certs
+
+OSCP
+
 ### Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=haccer&show_icons=true)
