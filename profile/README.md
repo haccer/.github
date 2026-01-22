@@ -1,6 +1,6 @@
 ### About me
 
-Creator of [@LaserSell](https://github.com/lasersell) & [@twintproject](https://github.com/twintproject)
+Founder of [@LaserSell](https://github.com/lasersell) & [@twintproject](https://github.com/twintproject)
 
 ---------
 
