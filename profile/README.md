@@ -20,6 +20,4 @@ Rust, JS, Python, Bash, Go
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haccer&show_icons=true&hide_border=true" alt="My GitHub Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=haccer&theme=telegram)](https://git.io/streak-stats)
