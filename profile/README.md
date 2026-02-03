@@ -1,3 +1,4 @@
+<p align="center"
 ### About me
 
 Founder of [@LaserSell](https://github.com/lasersell), [@twintproject](https://github.com/twintproject), & [@supplyshark](https://github.com/supplyshark)
@@ -17,7 +18,4 @@ Rust, JS, Python, Bash, Go
 
 ### Certs
 **OSCP** (Offensive Security Certified Professional)
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=haccer&theme=telegram)](https://git.io/streak-stats)
+</p>
