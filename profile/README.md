@@ -1,5 +1,3 @@
-# Cody Zacharias
-
 **Selected work**
 - [Twint](https://github.com/twintproject/twint): Twitter OSINT tool with 16,000+ stars, used in academic research
 - [subjack](https://github.com/haccer/subjack): subdomain takeover scanner, packaged in Kali Linux
