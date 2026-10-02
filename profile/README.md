@@ -4,6 +4,6 @@
 - [SupplyShark](https://github.com/supplyshark/supplyshark): recon for package hijacking, dependency confusion and typosquatting
 
 **Background:**
-OSCP.
+OSCP
 
 **Languages:** Python, Go, Shell, TypeScript / JavaScript
