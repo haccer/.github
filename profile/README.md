@@ -1,23 +1,11 @@
-```
-    (,
-    /|__--__                                            __--__
-    |\ '__                                               _{ _
-    `.' / `.,_ _________      HACKING     _________ _,.' (/ `.
-    /  ||``._.'                                     `---'|:||,/
-  .'   /|      IZ LIKE A SWORD FIGHT...                 /|:| \
-.'    /\ \        YOU MUST THINK BEFORE YOU MOVE..      `/|'\'
- ` `,/ /`,\                                             /,'\ \
-   .'.'  /|                                             |\  `.`.
- ,' /   / |                                             | \   \ `,
-- `- -- `-'- ----------------------------------------- -`-' -- -' -
-```
+# Cody Zacharias
 
-**Likes:** Money 💰, Food 🌮, Lamborghinis 🏎️, Watches ⌚️, Helicopters 🚁
+**Selected work**
+- [Twint](https://github.com/twintproject/twint): Twitter OSINT tool with 16,000+ stars, used in academic research
+- [subjack](https://github.com/haccer/subjack): subdomain takeover scanner, packaged in Kali Linux
+- [SupplyShark](https://github.com/supplyshark/supplyshark): recon for package hijacking, dependency confusion and typosquatting
 
-**Dislikes:** I'm getting older 😢
+**Background**
+OSCP.
 
-### Languages
-Rust, JS, Python, Bash, Go
-
-### Certs
-**OSCP** (Offensive Security Certified Professional)
+**Languages:** Python, Go, Shell, TypeScript / JavaScript
