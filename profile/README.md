@@ -3,7 +3,7 @@
 - [subjack](https://github.com/haccer/subjack): subdomain takeover scanner, packaged in Kali Linux
 - [SupplyShark](https://github.com/supplyshark/supplyshark): recon for package hijacking, dependency confusion and typosquatting
 
-**Background**
+**Background:**
 OSCP.
 
 **Languages:** Python, Go, Shell, TypeScript / JavaScript
